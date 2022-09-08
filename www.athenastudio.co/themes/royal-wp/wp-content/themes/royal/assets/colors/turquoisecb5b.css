@@ -1,0 +1,172 @@
+a,
+a:hover, 
+a:focus,
+h1.colored, .h1.colored, 
+h2.colored, .h2.colored, 
+h3.colored, .h3.colored, 
+h4.colored, .h4.colored, 
+h5.colored, .h5.colored, 
+h6.colored, .h6.colored,
+.royal,
+.intro-arrow:hover,
+.section header .icon.colored i,
+.section .section-title h2 > strong,
+.navbar .navbar-collapse:not(.in):not(.collapsing) .navbar-nav > li.dropdown.open > a,
+.navbar .navbar-nav > li > .dropdown-menu li.active a,
+.services:hover i,
+.team h4 > a:hover,
+.btn.btn-link,
+.btn.btn-inverse,
+.icons-demo.colored i, 
+.stickers-demo.colored i,
+.sidebar ul.menu li a:hover, 
+.sidebar ul.menu li a:focus,
+.sidebar ul.links li a:hover, 
+.sidebar ul.links li a:focus,
+.pages-navigation a:hover, 
+.pages-navigation a:focus,
+.user-comment .details .info .author,
+.user-comment .details .reply a:hover, 
+.user-comment .details .reply a:focus,
+.widget ul:not( .fa-ul ) li a:hover, 
+.widget ul:not( .fa-ul ) li a:focus,
+.product-info .add-to-cart-btn a,
+.product-info .add-to-cart-btn a > i,
+.single-product-price h3,
+.product-list li .product-summary .remove:hover > i,
+.woocommerce-MyAccount-navigation-link.is-active a,
+.woocommerce-info:before,
+.woocommerce .alert .btn-close:hover i,
+.footer .social a:hover i,
+.footer.widget_nav_menu .menu li > a:hover,
+.portfolio-filters a:hover,
+.fa-li.colored,
+.dropcap {
+	color:#46cad7;
+}
+
+.navbar .navbar-nav > li a:hover, 
+.navbar .navbar-nav > li a:focus,
+.navbar .navbar-nav > li.active > a,
+.navbar .navbar-nav > li.current-menu-item > a,
+.cart-open .navbar-shopping-bag:hover > i,
+.wpcf7 form.sent .wpcf7-response-output,
+.arrows .arrow i:hover,
+.nav-tabs > li.active > a, 
+.nav-tabs > li.active > a:hover, 
+.nav-tabs > li.active > a:focus,
+.widget.widget_archive a:hover, 
+.widget.widget_categories a:hover, 
+.widget.widget_archive a:focus, 
+.widget.widget_categories a:focus,
+.widget.widget_recent_comments a:hover, 
+.widget.widget_recent_comments a:focus {
+	color:#46cad7 !important;
+}
+
+.btn.btn-link:hover, 
+.btn.btn-link:focus,
+.product-info .add-to-cart-btn a:hover,
+.product-info .add-to-cart-btn a:hover > i {
+	color:#63d2dd;
+}
+
+.page-loader .content .line .progress,
+.navbar .navbar-toggle:hover .icon-bar,
+.navbar.three .navbar-nav > li > a:after, 
+.navbar.four .navbar-nav > li > a:after, 
+.navbar.six .navbar-nav > li > a:after,
+.navbar.seven .navbar-nav > li.active > a:after, 
+.navbar.eight .navbar-nav > li.active > a:after, 
+.navbar.nine .navbar-nav > li.active > a:after,
+.intro .content .video-preview .video-control i,
+.btn.btn-default,
+.wp-block-button__link,
+.wp-block-search__button,
+.sidebar .tagcloud > a,
+.portfolio-item .loading,
+.progress .progress-bar,
+.dropcap.alt,
+.highlight,
+.sticker.default,
+.page-numbers > li > a,
+.cart-open .cart-number,
+.woocommerce span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.sidebar .tags .tag,
+.sidebar .newsletter-form .search-submit, 
+.sidebar.widget_search .search-submit,
+.search-form .search-submit {
+	background-color:#46cad7;
+}
+
+.section.parallax .parallax-overlay.colored {
+	background-color:rgba(70, 202, 215, 0.85);
+}
+
+.btn.btn-default:hover, 
+.btn.btn-default:focus,
+.wp-block-button__link:hover,
+.wp-block-button__link:focus,
+.wp-block-search__button:hover,
+.wp-block-search__button:focus,
+.page-numbers > li > a:hover,
+.page-numbers > li > a:focus,
+.sidebar .tagcloud > a:hover, 
+.sidebar .tagcloud > a:focus,
+.sidebar .tags .tag:hover, 
+.sidebar .tags .tag:focus {
+	background-color:#63d2dd;
+}
+
+.btn.btn-inverse:hover, 
+.btn.btn-inverse:focus {
+	border-color:#63d2dd;
+	color:#63d2dd;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+	border-color:#46cad7;
+}
+
+input.notice, 
+textarea.notice,
+.product-tabs .minimal-tabs > li.active > a,
+.product-tabs .minimal-tabs > li.active > a:focus,
+.product-tabs .minimal-tabs > li.active > a:hover {
+	border-color:#46cad7 !important;
+}
+
+.portfolio-filters a.active {
+	background-color:#46cad7 !important;
+}
+
+.loader-icon .spinner,
+.promotion-box {
+	border-left-color:#46cad7;
+}
+
+.promotion-box.line-top,
+.woocommerce-info {
+	border-top-color:#46cad7;
+}
+
+.sticker.default:hover {
+	background-color:#63d2dd;
+}
+
+.woocommerce-button,
+.checkout-button,
+.woocommerce .button:not(.add_to_cart_button) {
+	background-color:#46cad7 !important;
+}
+
+.woocommerce-button:hover,
+.checkout-button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce .button:not(.add_to_cart_button):hover {
+    background-color:#63d2dd !important;
+}
